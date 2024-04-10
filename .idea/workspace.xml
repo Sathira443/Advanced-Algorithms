@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d630b260-7730-4142-a86a-4fc276cc81ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AdvancedAlgo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FordFulkerson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GlobalCC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphColoring.py" afterDir="false" />
+    <list default="true" id="d630b260-7730-4142-a86a-4fc276cc81ab" name="Changes" comment="Changes for Week 9">
+      <change afterPath="$PROJECT_DIR$/Assignment_2-a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_2-b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_2-c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment_2_2a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.FordFulkerson.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GlobalCC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GraphColoring.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/DATA/GitHub Projects/Student-Anxiety-and-Depression-Prediction&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Assignment_2-a.executor": "Run",
+    "Python.Assignment_2-b.executor": "Run",
+    "Python.Assignment_2_2a.executor": "Run",
+    "Python.FordFulkerson.executor": "Run",
+    "Python.GlobalCC.executor": "Run",
+    "Python.GraphColoring.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/DATA/GitHub Projects/Student-Anxiety-and-Depression-Prediction"
   }
-}</component>
-  <component name="RunManager" selected="Python.GraphColoring">
-    <configuration name="FordFulkerson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Assignment_2_2a">
+    <configuration name="Assignment_2-a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AdvancedAlgo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -63,7 +62,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FordFulkerson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_2-a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment_2-b" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AdvancedAlgo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_2-b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Assignment_2_2a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AdvancedAlgo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment_2_2a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,9 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Assignment_2_2a" />
+        <item itemvalue="Python.Assignment_2-b" />
+        <item itemvalue="Python.Assignment_2-a" />
         <item itemvalue="Python.GraphColoring" />
         <item itemvalue="Python.GlobalCC" />
-        <item itemvalue="Python.FordFulkerson" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +185,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711514283657</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes for Week 9">
+      <option name="closed" value="true" />
+      <created>1712058509150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712058509150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes for Week 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes for Week 9" />
   </component>
 </project>
